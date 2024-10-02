@@ -67,7 +67,7 @@ After setting up the virtual environment, downloading the FAISS index, and placi
 1. Activate the virtual environment (if not already activated).
 2. Run the Streamlit app:
 ```bash
-pip install -r requirements.txt
+streamlit run main.py
 ```
 Once the server is running, open your web browser and navigate to the local URL provided by Streamlit (usually `http://localhost:8501`) to interact with the chatbot.
 
