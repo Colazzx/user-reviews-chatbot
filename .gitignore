@@ -1,0 +1,4 @@
+Menv/
+.ipynb_checkpoints/
+__pycache__/
+.idea/
