@@ -1,0 +1,7 @@
+To organize the files in the specified structure and upload them to your GitHub repository, should be like this:
+
+Directory Structure:
+user-reviews-chatbot/
+  └── faiss_index/
+        ├── index.faiss
+        └── index.pkl
