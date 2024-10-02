@@ -1,5 +1,7 @@
 # User Reviews Chatbot
 
+![Chatbot Interface](https://drive.google.com/uc?export=view&id=1XA-_Bh42nSUENdM4wq-d66FprUSMnOj_)
+
 This project is a chatbot designed to answer questions based on user reviews from Spotify. The chatbot uses FAISS for vector database creation and retrieval and is implemented using LangChain and Streamlit.
 
 ---
