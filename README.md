@@ -74,7 +74,8 @@ Once the server is running, open your web browser and navigate to the local URL 
 ### 6. Notes
 
 1. Local Deployment Only: Due to the large size of the FAISS index files, this chatbot is designed to run on your local machine.
-2. File Organization: Ensure that all files are organized as they are in the repository, and do not modify the file structure.
+2. This project is not intended for deployment to a cloud platform like Streamlit due to file size constraints.
+3. File Organization: Ensure that all files are organized as they are in the repository, and do not modify the file structure.
 
 ## Files Overview
 
