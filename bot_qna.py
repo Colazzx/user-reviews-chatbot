@@ -106,7 +106,7 @@ def calculate_similarity_score(answer, expected_answer, embedding_model):
 def quality_scoring(response, expected_answer, embedding_model):
     # If expected_answer is None, skip similarity score calculation
     if expected_answer is None:
-        relevance_score = 0  # Default relevance score when no expected answer is provided
+        relevance_score = 0 
     else:
         relevance_score = calculate_similarity_score(response, expected_answer, embedding_model)
 
