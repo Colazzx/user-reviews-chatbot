@@ -107,8 +107,8 @@ The directory structure should look like this after you have set up everything:
 ```python
 ├── Data Processing/
 │   └── Data_Cleaning.ipynb        # Jupyter notebook for cleaning, processing, and preparing the data
-├── Demo/                          # Project demo video
-│   └── Project Demo.mp4
+├── Demo/                          
+│   └── Project Demo.mp4           # Project demo video
 ├── faiss_index/                   # Faiss index files
 │   ├── index.faiss
 │   └── index.pkl
