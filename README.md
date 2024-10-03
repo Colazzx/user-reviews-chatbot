@@ -113,7 +113,7 @@ The directory structure should look like this after you have set up everything:
 │   ├── index.faiss
 │   └── index.pkl
 ├── Trial/
-│   └── Chatbot Trial.ipynb        # Jupyter notebook for creating the vector database and running chatbot trials
+│   └── Chatbot Trial.ipynb       # Jupyter notebook for creating the vector database and running chatbot trials
 ├── Menv/                          # Virtual environment directory
 │   ├── etc/
 │   ├── include/
